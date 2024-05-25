@@ -1,0 +1,33 @@
+# .NET
+**/bin/
+**/obj/
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files (backup)
+*_i.c
+*_p.c
+*_i.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+
+# Auto-generated files (build)
+*.appx
+*.appxsym
+*.builds
+*.log
+*.winmd
